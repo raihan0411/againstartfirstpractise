@@ -1,0 +1,26 @@
+p{
+    color:red;
+}
+li{
+    font-size: 70px;
+}
+.margin{
+    padding: 3%;
+    background-color: antiquewhite;
+    margin: 10px 15px 10px;
+    border-radius: 15px;
+    border: solid black;
+}
+#headline{
+    color: aquamarine;
+}
+.boxmodel{
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    background-color: aliceblue;
+}
+h1{
+    font-weight: 500;
+}
